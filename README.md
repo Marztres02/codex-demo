@@ -1,21 +1,21 @@
-# Demo de OpenAI Codex
+# OpenAI Codex Demo
 
-## Objetivo del repositorio
-Este proyecto existe para preparar un demo práctico de OpenAI Codex, mostrando cómo un modelo generativo puede convertir instrucciones en lenguaje natural en fragmentos de código que resuelvan tareas reales.
+## Repository Goal
+This project exists to prepare a practical demo of OpenAI Codex, showcasing how a generative model can turn natural language instructions into code snippets that solve real tasks.
 
-## ¿Qué es OpenAI Codex?
-- Es un sistema de OpenAI diseñado para **traducir lenguaje natural a código** y está disponible mediante la API de la compañía.
-- El modelo es **descendiente directo de GPT-3** y fue entrenado con lenguaje natural y **miles de millones de líneas de código público**, incluyendo repositorios de GitHub.
-- **Da soporte a GitHub Copilot** y puede trabajar con **más de una docena de lenguajes de programación**, interpretando comandos sencillos y ejecutándolos en nombre de la persona usuaria.
+## What is OpenAI Codex?
+- It is an OpenAI system designed to **translate natural language into code** and is available through the company's API.
+- The model is a **direct descendant of GPT-3** and was trained on natural language plus **billions of lines of public code**, including GitHub repositories.
+- It **powers GitHub Copilot** and works with **more than a dozen programming languages**, interpreting short commands and running them on behalf of the user.
 
-La información anterior proviene de la nota oficial de OpenAI sobre Codex, publicada el 10 de agosto de 2021, que además menciona actualizaciones recientes sobre la evolución del sistema.
+The information above comes from the official OpenAI announcement about Codex, published on August 10, 2021, which also highlights ongoing updates about the system's evolution.
 
-## Ideas para el demo
-1. Crear un flujo donde la persona describa una tarea en lenguaje natural y Codex proponga el código correspondiente.
-2. Analizar cómo modifica fragmentos existentes según nuevas instrucciones.
-3. Mostrar buenas prácticas y limitaciones identificadas durante las pruebas.
+## Demo Ideas
+1. Create a flow where a person describes a task in natural language and Codex suggests the corresponding code.
+2. Analyze how it modifies existing snippets based on new instructions.
+3. Showcase best practices and limitations identified during testing.
 
-## Recursos y lecturas recomendadas
-- [OpenAI Codex – anuncio oficial y actualizaciones](https://openai.com/blog/openai-codex)
+## Resources and Recommended Reading
+- [OpenAI Codex – official announcement and updates](https://openai.com/blog/openai-codex)
 
-Si quieres proponer otra idea para el demo o compartir hallazgos adicionales sobre Codex, abre un issue en este repositorio.
+If you would like to propose another idea for the demo or share additional findings about Codex, please open an issue in this repository.
